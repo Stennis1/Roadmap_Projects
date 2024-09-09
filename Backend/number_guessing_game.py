@@ -36,7 +36,7 @@ def get_difficulty_level():
                 return 5
             
         elif user_input =="3":
-                print("Great! You have selected the Esay difficulty level. Let's start the game!")
+                print("Great! You have selected the Hard difficulty level. Let's start the game!")
                 return 3
             
         elif user_input in options:
