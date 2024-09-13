@@ -13,6 +13,10 @@ https://roadmap.sh/projects/basic-dockerfile
 1. Single-Page CV Solutions
 https://roadmap.sh/projects/single-page-cv
 
+3. Basic HTML Website
+https://roadmap.sh/projects/basic-html-website
+
+
 # Backend
 1. Number Guessing Game 
 https://roadmap.sh/projects/number-guessing-game
