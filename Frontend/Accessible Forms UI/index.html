@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <header>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Profile Form</title>       
+
+        <!--SEO Meta Tags-->
+        <meta name="author" content="Stennis Smith(roadmap.sh)">
+        <meta name="description" content="accessibility forms">
+        
+        <!--Links to external sources(image & stylesheet)-->
+        <link rel="icon" href="./image.png" type="/image.png">
+        <link rel="stylesheet" href="./style.css"> 
+    </header>
+
+
+    <body>
+        <div class="profile-container">
+           <form class="profile-form">
+                <!--Section to take user input(PERSONAL DETAILS)-->
+                <div class="personal-details">
+                     
+                    <label for="fullname">Full Name</label>  
+                    <input id="fullname" type="text" name="profile" placeholder="What should we call you?" required>
+
+
+                    <label for="email">Email</label>    
+                    <input id="email" type="text" name="profile" placeholder="john@doe.com"  class="error" required>
+                    <small class="error-text">Email is already taken</small>    
+
+                    
+                    <label for="password">Enter Password</label>    
+                    <div class="password-group">
+                        <input id="password" type="password" name="profile" placeholder="xxxxxxxx" required>
+                        <span class="show-password">&#128065;</span>
+                    </div>
+                    
+                    
+                    <label for="confirm-pass">Confirm Password</label>  
+                    <div class="password-group">
+                        <input id="confirm-pass" type="password" name="profile" placeholder="xxxxxxxx" required>
+                        <span class="show-password">&#128065;</span>
+                    </div>
+
+                        <!--Section for "UPDATE PROFILE button"-->
+                    <div class="submit-button">
+                        <button class="update-button" id="submit" type="submit">Update Profile</button>
+                    </div>
+                </div>                
+            </form>
+
+                
+
+                <!--Project Completeness Section-->
+                <div class="profile-completeness">
+
+                    <div class="progress-circle">
+                        <span>65%</span>
+                    </div>
+
+                    <h3>Profile Completeness</h3>
+                    <div class="tasks">
+                        <ul>
+                            <li class="done">Create Account</li>
+                            <li class="done">Update Roadmap Progress</li>
+                            <li class="done">Setup Public Profile</li>
+                            <li class="">Complete your first project</li>
+                            <li class="">Invite your Friends</li>
+                        </ul>
+                    </div>
+                </div>                
+        </div>
+    </body>
+</html>

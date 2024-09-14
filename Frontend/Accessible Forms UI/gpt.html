@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Update Form</title>
+    <link rel="stylesheet" href="./gptstyles.css">
+</head>
+<body>
+    <div class="profile-container">
+        <form class="profile-form">
+            <div class="form-group">
+                <label for="name">Full Name</label>
+                <input type="text" id="name" placeholder="What should we call you?" disabled>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" value="john@doe.com" class="error">
+                <small class="error-text">Email is already taken</small>
+            </div>
+
+            <div class="form-group">
+                <label for="password">Enter Password</label>
+                <div class="password-group">
+                    <input type="password" id="password" value="xxxxxxxx">
+                    <span class="show-password">&#128065;</span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="confirm-password">Confirm Password</label>
+                <div class="password-group">
+                    <input type="password" id="confirm-password" value="xxxxxxxx">
+                    <span class="show-password">&#128065;</span>
+                </div>
+            </div>
+
+            <button type="submit" class="update-btn">Update Profile</button>
+        </form>
+
+        <div class="profile-completeness">
+            <div class="progress-circle">
+                <span>65%</span>
+            </div>
+            <div class="tasks">
+                <h3>Profile Completeness</h3>
+                <ul>
+                    <li class="done">Create Account</li>
+                    <li class="done">Update Roadmap Progress</li>
+                    <li class="done">Setup Public Profile</li>
+                    <li>Complete your first project</li>
+                    <li>Invite your Friends</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
