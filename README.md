@@ -5,18 +5,28 @@ Contributions are welcomed!
 
 Projects pages' url:
 
-# DevOps
-1. Basic Dockerfile 
-https://roadmap.sh/projects/basic-dockerfile
-
 # Frontend
-1. Single-Page CV Solutions
+- [x] Single-Page CV 
 https://roadmap.sh/projects/single-page-cv
 
-3. Basic HTML Website
+- [X] Basic HTML Website
 https://roadmap.sh/projects/basic-html-website
+
+- [X] Tooltip UI
+https://roadmap.sh/projects/tooltip-ui
+
+- [ ] Accessible Forms UI
+https://roadmap.sh/projects/accessible-form-ui
+
+- [ ] Image Grid Layout
+https://roadmap.sh/projects/image-grid
 
 
 # Backend
-1. Number Guessing Game 
+- [X] Number Guessing Game 
 https://roadmap.sh/projects/number-guessing-game
+
+
+# DevOps
+- [X] Basic Dockerfile 
+https://roadmap.sh/projects/basic-dockerfile
