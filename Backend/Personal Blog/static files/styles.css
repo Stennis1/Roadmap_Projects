@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+h1{
+    color: goldenrod;
+}
+
+body {
+    padding: 20px;
+    color:black;
+    background-color: azure;
+    }
+
+.article-collage {
+    padding: 20px;
+    margin: 5px;
+    color: #f5f5f5;
+    border: black;
+}
+
