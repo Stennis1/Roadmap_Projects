@@ -1,0 +1,35 @@
+body {
+    font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
+}
+
+.tabs {
+    display: flex;    
+    border-bottom: 1px solid black;
+    margin-bottom: 25px;
+}
+
+.tab-button {
+    padding: 20px;
+    border: none;
+    background: none;
+    outline: none;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.tab-content {
+    padding: 20px;
+    display: none;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.tab-content.active {
+    display: block;
+} 
+
+.tab-button.active {
+    border-bottom: 1px solid black;
+    font-weight: bold;
+}
