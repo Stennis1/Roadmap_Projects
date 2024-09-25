@@ -18,8 +18,14 @@ https://roadmap.sh/projects/tooltip-ui
 - [ ] Accessible Forms UI
 https://roadmap.sh/projects/accessible-form-ui
 
+- [ ] Date Picker UI
+https://roadmap.sh/projects/datepicker-ui
+
 - [ ] Image Grid Layout
 https://roadmap.sh/projects/image-grid
+
+- [X] Tabs 
+https://roadmap.sh/projects/simple-tabs
 
 
 # Backend
