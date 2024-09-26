@@ -15,6 +15,9 @@ https://roadmap.sh/projects/basic-html-website
 - [X] Tooltip UI
 https://roadmap.sh/projects/tooltip-ui
 
+- [X] Tabs 
+https://roadmap.sh/projects/simple-tabs
+
 - [ ] Accessible Forms UI
 https://roadmap.sh/projects/accessible-form-ui
 
@@ -24,8 +27,7 @@ https://roadmap.sh/projects/datepicker-ui
 - [ ] Image Grid Layout
 https://roadmap.sh/projects/image-grid
 
-- [X] Tabs 
-https://roadmap.sh/projects/simple-tabs
+
 
 
 # Backend
