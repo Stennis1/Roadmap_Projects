@@ -1,3 +1,45 @@
-.left-table-ul-li {
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .left-layout {
+        width: 100%;
+    }
+
+    .right-layout {
+        width: 100%;
+    }
+}
+
+.container {
+    display: flex;
+    padding: 20px;
+}
+
+.left-layout {
+    width: 20%;
+}
+
+.right-layout {
+    border: 1px solid #000;
+    width: 80%;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.left-layout li {
     list-style-type: none;
+    margin: 10px 0;
+}
+
+.first-row {
+    
+    align-items: center;
+    justify-items: center;
 }

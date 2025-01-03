@@ -18,7 +18,7 @@ https://roadmap.sh/projects/tooltip-ui
 - [X] Tabs 
 https://roadmap.sh/projects/simple-tabs
 
-- [ ] Personal Portfolio
+- [X] Personal Portfolio
 https://roadmap.sh/projects/portfolio-website
 
 - [ ] Accessible Forms UI
