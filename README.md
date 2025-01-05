@@ -21,14 +21,16 @@ https://roadmap.sh/projects/simple-tabs
 - [X] Personal Portfolio
 https://roadmap.sh/projects/portfolio-website
 
+- [X] Image Grid Layout
+https://roadmap.sh/projects/image-grid
+
 - [ ] Accessible Forms UI
 https://roadmap.sh/projects/accessible-form-ui
 
 - [ ] Date Picker UI
 https://roadmap.sh/projects/datepicker-ui
 
-- [ ] Image Grid Layout
-https://roadmap.sh/projects/image-grid
+
 
 
 
