@@ -24,6 +24,9 @@ https://roadmap.sh/projects/portfolio-website
 - [X] Image Grid Layout
 https://roadmap.sh/projects/image-grid
 
+- [ ] Testimonial Cards
+https://roadmap.sh/projects/testimonial-cards
+
 - [ ] Accessible Forms UI
 https://roadmap.sh/projects/accessible-form-ui
 
